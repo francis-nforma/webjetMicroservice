@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.Workbench ActiveDocument="APIGateway/ocelot.json">
+    <Files>
+      <File FileName="userServie/Controllers/UserController.cs" Line="35" Column="24" />
+      <File FileName="userServie/Database/DataManager/UserDataManager.cs" Line="32" Column="36" />
+      <File FileName="userServie/Database/Repository/IDataRepository.cs" Line="1" Column="1" />
+      <File FileName="userServie/Properties/launchSettings.json" Line="28" Column="6" />
+      <File FileName="APIGateway/ocelot.json" Line="17" Column="1" />
+      <File FileName="APIGateway/Program.cs" Line="31" Column="1" />
+      <File FileName="APIGateway/Startup.cs" Line="40" Column="1" />
+      <File FileName="APIGateway/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="APIGateway/appsettings.json" Line="1" Column="1" />
+      <File FileName="APIGateway/Properties/launchSettings.json" Line="21" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebjetMicroservice" expanded="True">
+            <Node name="APIGateway" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="ocelot.json" selected="True" />
+            </Node>
+            <Node name="userService" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.APIGateway PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.userService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{453BF2CC-5FFF-4AA9-9688-DE3106933C80}" ItemName="APIGateway" ConfigurationId="Default" />
+        <StartupItem ItemId="{983F6901-B53D-4CDE-B857-DDE72ED724B5}" ItemName="userService" ConfigurationId="userServie" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
